@@ -1,0 +1,11 @@
+void main() {
+  
+
+  // variavel que armazena caracteres e textos 
+   String henrique = 'Olá';
+   print("Heloow é $henrique em ingles");
+   
+  // variavel que armazena verdadeiro ou falso 
+  bool desligado = true;
+  print ("$desligado");
+}

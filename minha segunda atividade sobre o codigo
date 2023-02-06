@@ -1,0 +1,27 @@
+void main() {
+int primeiramoto =5;
+int segundocarro =15;
+ 
+if(primeiramoto != segundocarro)
+{
+    
+print("a moto e mais barato que um carro!");
+}else
+ 
+{
+print("o carro e mais caro que a moto!");  
+}
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+}
